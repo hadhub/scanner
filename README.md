@@ -1,2 +1,2 @@
 # scanner
-simple port scanner
+simple port scanner for ctf
